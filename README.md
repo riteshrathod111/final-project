@@ -1,1 +1,3 @@
-# final-project
+# Project Name : BrainBytes An Android Application
+# description About Project:
+BrainBytes is a educational application developed to bridge the gap between students and educators by integrating social media features with educational tools. Utilizing technologies such as Android Studio, J2SE, J2EE, and Firebase, BrainBytes offers a seamless and engaging user experience. The app is designed to foster real-time knowledge sharing and enhance interactions within the educational community.The platform supports multimedia content, allowing educators to share videos, documents, and interactive quizzes. 
