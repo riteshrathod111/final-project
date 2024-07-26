@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310412710741",
+    "project_id": "karan-1ce4c",
+    "storage_bucket": "karan-1ce4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310412710741:android:21f1a3ba32b668cddbd5dc",
+        "android_client_info": {
+          "package_name": "com.rishav.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdnndc9h-lVO2vUtzLtCWlfBPrsQ6RCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
